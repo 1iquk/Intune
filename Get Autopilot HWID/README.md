@@ -10,11 +10,7 @@ Run from any folder on Windows desktop or from the OOBE by pressing Shift+F10. (
 
 ### Instructions
 
-1. Download the batch and PowerShell files to the same folder
-
-    You can use DownGit to download just the above files. Paste in the URL of this page into the link box:
-    https://minhaskamal.github.io/DownGit
-
+1. Download the batch and PowerShell file to the same folder
 2. Edit the GroupTag in the batch file
 3. Right click the batch file > Run as Administrator (On OOBE open CMD and run the batch file directly from the command line)
 
