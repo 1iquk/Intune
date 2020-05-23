@@ -1,10 +1,5 @@
 # Intune
 
-# Get-Autopilot HWID
-This batch file automatically runs the Get-WindowsAutoPilotInfo.ps1 script and appends the Hash ID into the csv file.
-These 2 files need to be stored in the same folder and run from the root of any drive.
-This can be run from the OOBE by pressing Shift+F10.
+# Get Autopilot HWID
+Automatically retrieves the Hardware Hash ID of a device and stores it in a CSV file Autopilotdevices.csv
 
-Please make sure you edit the GroupTag in the batch file or edit the csv file later on before uploading to Intune.
-
-Some content
