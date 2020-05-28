@@ -1,6 +1,6 @@
 # Get Autopilot HWID
 ### Autopilot_HWID_1.5 - Imran Qureshi, 23/05/2020
-**_Tested on Windows 10 Pro 1909_**
+**_Tested on Windows 10 Pro x64 1909_**
 
 ## Description
 
