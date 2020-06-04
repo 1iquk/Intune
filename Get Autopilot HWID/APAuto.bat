@@ -9,4 +9,4 @@ TIMEOUT 7
 
 Del Get-WindowsAutoPilotInfo.ps1
 Del GetAutopilot_HWID.bat
-Del apauto.bat
+Del APAuto.bat
