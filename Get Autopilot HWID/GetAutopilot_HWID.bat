@@ -1,6 +1,6 @@
 @ECHO ON
 GOTO :---
-Title/Author: Autopilot_HWID_1.5 Imran Qureshi, 23/05/2020
+Name/Author/Date: GetAutopilot_HWID_1.0, Imran Qureshi, 23/05/2020
 Desc: This script starts required services then runs the Get-WindowsAutoPilotInfo.ps1 v2.1 script
 It can be run from OOBE via USB or anywhere on the Windows desktop. 
 The csv file will be created if it doesn't exist. Each device's HW Hash will be added to the same csv file.
