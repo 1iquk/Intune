@@ -5,7 +5,7 @@ curl -O "https://raw.githubusercontent.com/1iquk/Intune/master/Get%%20Autopilot%
 
 CALL GetAutopilot_HWID.bat
 
-TIMEOUT 7
+REM TIMEOUT 7
 
 Del Get-WindowsAutoPilotInfo.ps1
 Del GetAutopilot_HWID.bat
